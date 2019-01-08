@@ -1,2 +1,2 @@
 # hello-world
-Copied the intro demo
+I have no idea how to connect this to python.
